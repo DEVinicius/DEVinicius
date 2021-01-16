@@ -3,8 +3,8 @@
 
 ## I'm a Student, Developer and a Geek!
 
-- PHP and Python back-end developer
-- 🥇Objective: learn PHP, learn Python, create projects
+- PHP and Javascript  developer
+- 🥇Objective: learn PHP, learn Javascript(node and React), create projects
 - ⚡ Curiosity: I love games, play guitar, I love to read
 
 ### Connect with me:
