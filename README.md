@@ -4,8 +4,16 @@
 ## I'm a Student, Developer and a Geek!
 
 - PHP and Javascript  developer
-- 🥇Objective: learn PHP, learn Javascript(node and React), create projects
+- 🥇Objective: especialize in PHP, Javascript(React) and contribute to Open Source Projects
 - ⚡ Curiosity: I love games, play guitar, I love to read
+
+## Current Job
+- FullStack Developer (React JS & Laravel) at Leadsfy Inteligência em Vendas
+
+## Studying Actually
+- React JS
+- Laravel / Lumen
+- AWS
 
 ### Connect with me:
 
