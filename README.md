@@ -11,8 +11,9 @@
 - FullStack Developer (React JS & Laravel) at Leadsfy Inteligência em Vendas
 
 ## Studying Actually
-- React JS
-- Laravel / Lumen
+- React JS /Next.JS
+- Laravel
+- Digital Ocean
 - AWS
 
 ### Connect with me:
