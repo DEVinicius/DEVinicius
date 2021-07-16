@@ -4,7 +4,7 @@
 ## I'm a Student, Developer and a Geek!
 
 - PHP and Javascript  developer
-- 🥇Objective: especialize in PHP, Javascript(React) and contribute to Open Source Projects
+- 🥇Objective: especialize in Node.JS, microservices, GRPC, Javascript(React) and contribute to Open Source Projects
 - ⚡ Curiosity: I love games, play guitar, I love to read
 
 ## Current Job
