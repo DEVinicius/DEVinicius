@@ -8,11 +8,11 @@
 - ⚡ Curiosity: I love games, play guitar, I love to read
 
 ## Current Job
-- FullStack Developer (React JS & Laravel) at Leadsfy Inteligência em Vendas
+- FullStack Developer (React JS & Node) at ACT Digital
 
 ## Studying Actually
 - React JS /Next.JS
-- Laravel
+- Node JS & laravel
 - Digital Ocean
 - AWS
 
